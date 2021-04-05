@@ -1651,7 +1651,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-spWQksAeTN .card {
-    border-right: 1px solid black;
+    border-right: 1px solid white;
   }
 }
 @media (max-width: 991px) {
