@@ -1,8 +1,8 @@
 ### Hi there 👋
 On the other end of Github Server: **Ramneek Kalra** <br>
-I am currently working as a **Project Engineer** at **Wipro Limited, India** and contributing as a **Volunteer** to community through **IEEE** Platform.
+I am currently working as a **Project Engineer** at **Wipro Limited, India** and contributing as a **Volunteer** to society through **IEEE** & **Youth for Sustainability** Platform.
 
-And **Open-Source Geek Developer!**
+And **Open-Source Developer!**
 
 Explore my whole profile at: https://www.linkedin.com/in/ramneekkalra/
 
