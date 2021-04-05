@@ -1,5 +1,5 @@
 var i = 0;
-var txt = document.getElementById("hello_text").textContent;
+var txt = document.getElementById("hello_greet").textContent;
 var speed = 500;
 
 function typeWriter() {
