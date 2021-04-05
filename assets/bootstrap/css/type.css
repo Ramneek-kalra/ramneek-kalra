@@ -12,7 +12,7 @@
   white-space: nowrap;
   overflow: hidden;
   border-right: 3px solid;
-  font-family: 'Jost', sans-serif;
+  font-family: monospace;
   font-size: 2em;
   font-weight: bold; 
 }
