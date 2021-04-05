@@ -1651,20 +1651,20 @@ a {
 }
 @media (min-width: 992px) {
   .cid-spWQksAeTN .card {
-    border-right: 1px solid white;
+    border-right: 1px solid black;
   }
 }
 @media (max-width: 991px) {
   .cid-spWQksAeTN .card {
     border-right: 0px;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid black;
   }
 }
 .cid-spWQksAeTN .wrapper {
   padding: 30px 0;
 }
 .cid-spWQksAeTN .mbr-section-title {
-  color: #fafafa;
+  color: #000000;
 }
 .cid-spWQksAeTN .mbr-text,
 .cid-spWQksAeTN .mbr-section-btn {
