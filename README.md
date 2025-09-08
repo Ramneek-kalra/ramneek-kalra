@@ -1,22 +1,47 @@
-### Hi there 👋
-On the other end of Github Server: **Ramneek Kalra** <br><br>
-I am currently working as a **Project Engineer** at **Wipro Limited, India** and contributing as a **Volunteer** to society through **IEEE** & **Youth for Sustainability** Platform.
+# 👋 Hi, I'm Ramneek Kalra
 
-And **Open-Source Developer!**
+Welcome to my GitHub profile! I'm passionate about cloud infrastructure, DevOps, and automation. Here you'll find my work, projects, and contributions related to AWS, Kubernetes, Terraform, and more.
 
-Explore my whole profile at: https://www.linkedin.com/in/ramneekkalra/
+---
 
-<!--
-**Ramneek-kalra/ramneek-kalra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+- 💼 Cloud Engineer & DevOps Enthusiast
+- 🏆 AWS Certified Solutions Architect
+- 🛠️ Strong focus on EKS, security, and infrastructure as code
+- 📚 Open-source contributor and technical writer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| ------- | ----------- | ---------- |
+| [aws-eks-best-practices](https://github.com/Ramneek-kalra/aws-eks-best-practices) | Best practices for running production workloads on Amazon EKS | AWS, EKS, Kubernetes |
+| [eks-operational-review-agent](https://github.com/Ramneek-kalra/eks-operational-review-agent) | Agent for reviewing EKS operational health | Go, AWS, EKS |
+| [terraform](https://github.com/Ramneek-kalra/terraform) | Terraform modules and demos for AWS | Terraform, AWS |
+
+---
+
+## 📝 Blog & Resources
+
+- [Medium](https://medium.com/@ramneek-kalra)
+- [LinkedIn](https://www.linkedin.com/in/ramneek-kalra/)
+- [Personal Site](#) <!-- Add your site if available -->
+
+---
+
+## 📫 Contact Me
+
+- Email: ramneek@ieee.org <!-- Replace with your email -->
+
+---
+
+## ⚡ Fun Facts
+
+- I love automating infrastructure and building resilient systems.
+- Always learning and sharing knowledge with the community.
+
+---
+
+_Thanks for visiting! ⭐ If you find my work useful, feel free to star some repositories or connect with me!_
