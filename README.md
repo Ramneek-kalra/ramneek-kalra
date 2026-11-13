@@ -1,21 +1,46 @@
-# 💫 About Me:
-I am an Improver working as a Sr. Consultant I at Improving Enterprises Inc, specialized in resolving complex technical issues across containerized workloads in EKS, ECS, AWS Batch, and related infrastructure. My focus: reducing downtime, accelerating resolution, and restoring customer trust—at scale.<br><br>With a strong foundation in cloud and edge computing, DevOps, and multi-cloud architectures, I’ve supported high-priority customers through incident diagnostics, root cause analysis, and deep-level troubleshooting in production environments.<br><br>What makes me effective?<br>- Calm under pressure during high-severity events<br>- Obsessed with digging deep to find the real “why” behind problems<br>- Trusted by customers and engineers alike for clear, actionable solutions<br><br>Beyond my technical-space, I’ve led 1000+ tech education sessions, contributed to open-source, authored 20+ research papers, and helped grow communities as an IEEE Impact Creator. I bring both hands-on engineering skill and a broader commitment to innovation and mentorship.
+# Ramneek Kalra
 
+**Senior Consultant @ [Improving](https://www.improving.com)** · Applied AI & Cloud Systems · Hyderabad
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ramneek.rk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramneek-unique) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramneekkalra) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RamneekUnique) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ramneekkalra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:linkedin.ramneek@gmail.com) 
+I work where cloud platforms meet applied AI—Kubernetes, AWS, ML/GenAI, and the reliability work that keeps production systems honest. Previously at Amazon Web Services. Part-time PhD researcher. Long-time IEEE volunteer.
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ramneek-kalra&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ramneek-kalra&theme=solarized-light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ramneek-kalra&theme=solarized-light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ramneek-kalra&theme=solarized-light&no-frame=false&no-bg=true&margin-w=4)
+### What I care about
+
+1. **Make it run in production** — containers, distributed systems, RCA, automation  
+2. **Apply AI with judgment** — classical ML, LLMs, RAG, GenAI—shipped, not slideware  
+3. **Leave the ladder down** — IEEE leadership, mentorship, and technical education  
+
+<br/>
+
+### Stack I reach for most
+
+`Python` · `Java` · `AWS` · `Kubernetes` · `Terraform` · `PyTorch` · `Hugging Face` · `LangChain` · `DevOps`
+
+<br/>
+
+### Selected work
+
+- [EKS AMI hardening pipeline](https://github.com/aws-samples/pipeline-for-hardening-eks-nodes-and-automating-updates) — AWS Samples  
+- [Cloud-native Airflow on EKS](https://github.com/aws-samples/cloud-native-airflow-solution-on-amazon-eks) — AWS Samples  
+- [EventBridge notifications for ECR](https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls) — AWS Samples  
+
+<br/>
+
+### Elsewhere
+
+[Website](https://ramneekkalra.in) · [LinkedIn](https://www.linkedin.com/in/ramneekkalra) · [Blog](https://blog.ramneekkalra.in) · [YouTube](https://www.youtube.com/@ramneekkalra) · [IEEE Transmitter](https://transmitter.ieee.org/young-creator/ramneek-kalra/) · [Email](mailto:linkedin.ramneek@gmail.com)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ramneek-kalra&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<details>
+<summary>GitHub activity</summary>
+
+<br/>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramneek-kalra&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek-kalra&layout=compact&theme=default&hide_border=true)
+
+</details>
