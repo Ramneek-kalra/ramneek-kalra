@@ -38,13 +38,13 @@ I sit at the intersection of **cloud-native infrastructure** and **applied AI**â
 ### Selected work
 
 <a href="https://github.com/aws-samples/pipeline-for-hardening-eks-nodes-and-automating-updates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=pipeline-for-hardening-eks-nodes-and-automating-updates&theme=default&hide_border=true" alt="EKS AMI hardening pipeline" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=aws-samples&repo=pipeline-for-hardening-eks-nodes-and-automating-updates&theme=default&hide_border=true" alt="EKS AMI hardening pipeline" />
 </a>
 <a href="https://github.com/aws-samples/cloud-native-airflow-solution-on-amazon-eks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=cloud-native-airflow-solution-on-amazon-eks&theme=default&hide_border=true" alt="Airflow on EKS" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=aws-samples&repo=cloud-native-airflow-solution-on-amazon-eks&theme=default&hide_border=true" alt="Airflow on EKS" />
 </a>
 <a href="https://github.com/aws-samples/amazon-eventbridge-for-ecr-api-calls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aws-samples&repo=amazon-eventbridge-for-ecr-api-calls&theme=default&hide_border=true" alt="EventBridge for ECR" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/pin/?username=aws-samples&repo=amazon-eventbridge-for-ecr-api-calls&theme=default&hide_border=true" alt="EventBridge for ECR" />
 </a>
 
 ---
@@ -52,12 +52,12 @@ I sit at the intersection of **cloud-native infrastructure** and **applied AI**â
 ### Snapshot
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ramneek-kalra&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramneek-kalra&layout=compact&theme=default&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Ramneek-kalra&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ramneek-kalra&layout=compact&theme=default&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramneek-kalra&bg_color=ffffff&color=1a5278&line=b8860b&point=1a1d26&area=true&hide_border=true" alt="Contribution graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=Ramneek-kalra&theme=default&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
