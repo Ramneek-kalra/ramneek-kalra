@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/github-profile-banner.png" alt="Applied AI and cloud systems banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=600&size=28&pause=1200&color=1A1D26&center=true&vCenter=true&width=720&lines=Ramneek+Kalra;Applied+AI+%26+Cloud+Systems;Senior+Consultant+%40+Improving" alt="Ramneek Kalra" />
 </p>
 
