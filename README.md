@@ -49,19 +49,6 @@ I sit at the intersection of **cloud-native infrastructure** and **applied AI**â
 
 ---
 
-### Snapshot
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=Ramneek-kalra&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ramneek-kalra&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ramneek-kalra&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
 <p align="center">
   <a href="https://www.youtube.com/@ramneekkalra"><img src="https://img.shields.io/badge/YouTube-@ramneekkalra-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://transmitter.ieee.org/young-creator/ramneek-kalra/"><img src="https://img.shields.io/badge/IEEE-Transmitter-00629B?style=flat-square" alt="IEEE Transmitter" /></a>
